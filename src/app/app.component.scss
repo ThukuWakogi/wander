@@ -1,0 +1,6 @@
+mat-drawer-container {
+  flex: 1 1 auto;
+  & > mat-drawer-content > main {
+    height: 100%;
+  }
+}

@@ -34,3 +34,9 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .cstm-flex-1-auto {
   flex: 1 1 auto;
 }
+
+app-root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
